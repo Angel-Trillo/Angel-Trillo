@@ -25,9 +25,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
-## 🌟 Proyectos destacados:
-- **[Brick Breaker](https://github.com/tu_usuario/brickbreaker):** Un juego estilo ping-pong con niveles personalizables y dificultad creciente.
-- **[BrickCraft](https://github.com/tu_usuario/brickcraft):** Un proyecto inspirado en mecánicas de construcción y destrucción de bloques.
 
 ## 🎯 Mis objetivos:
 - Completar proyectos desafiantes que me ayuden a mejorar mis habilidades en **desarrollo de software**.
