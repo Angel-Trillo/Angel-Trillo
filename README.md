@@ -30,17 +30,10 @@
 ## 🎯Metas Principales:
 
 1. **Volverme un experto en desarrollo backend utilizando Java.**
-   - Dominar los fundamentos avanzados de programación en Java.
-   - Implementar soluciones escalables y de alto rendimiento.
-
+   
 2. **Dominar Spring Boot.**
-   - Crear aplicaciones robustas y estructuradas con este framework.
-   - Explorar las mejores prácticas para su uso en proyectos empresariales.
 
-3. **Especializarme en microservicios con Java.**
-   - Diseñar e implementar arquitecturas basadas en microservicios.
-   - Manejar la comunicación eficiente entre servicios y la gestión de datos distribuidos.
-
+3. **Especializarme en microservicios y Base de datos con Java.**
 
 ## 📫 Contáctame:
 <p>
